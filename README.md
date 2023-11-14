@@ -1,4 +1,4 @@
-![logo](https://github.com/SuryaSatyaNikhil503/SuryaSatyaNikhil503/blob/main/Professional%20LinkedIn%20Banner.png)
+![logo](https://github.com/SuryaSatyaNikhil503/SuryaSatyaNikhil503/blob/main/Nikhil_Banner.png)
 <h1 align="center">Hi 👋, I'm Surya Satya Nikhil</h1>
 <h3 align="center">An Computer Science Student with excellent Problem-Solving skills from India</h3>
 
