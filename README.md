@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Genius SaaS**
 
-- 🌱 I’m currently learning **Spring Boot, AWS Cloud Computing**
+- 🌱 I’m currently learning **Spring Boot and Google Flutter**
 
 - 📫 How to reach me **21A95A0503@aec.edu.in**
 
