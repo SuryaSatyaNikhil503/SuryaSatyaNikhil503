@@ -1,10 +1,10 @@
-<!-- Banner: swap Nikhil_Banner.png for an updated version if you make one, or drop the banner block entirely — it's optional -->
+<!-- Banner: swap Nikhil_Banner.png for an updated version if you make one, or drop the banner block entirely, it's optional -->
 <p align="center">
   <img src="https://github.com/SuryaSatyaNikhil503/SuryaSatyaNikhil503/blob/main/Nikhil_Banner.png" alt="Banner">
 </p>
 
 <h1 align="center">Surya Satya Nikhil (Nikhil)</h1>
-<h3 align="center">Senior Software Engineer — backend systems for e-commerce logistics, with a side interest in AI-augmented engineering</h3>
+<h3 align="center">Senior Software Engineer, backend systems for e-commerce logistics</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/gssnikhil" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -16,19 +16,17 @@
 
 ### About
 
-I'm a Senior Software Engineer at iQuadra Information Services, working on backend systems for e-commerce shipping and logistics — the kind of infrastructure that has to be right every time, because it's making pricing and delivery decisions on live orders.
+I'm a Senior Software Engineer at iQuadra Information Services, working on backend systems for e-commerce shipping and logistics. This is infrastructure that has to be right every time, since it's making pricing and delivery decisions on live orders in production.
 
-- Currently building and shipping production services on **Java 21, Spring Boot, microservices, PostgreSQL, Redis, and AWS**
-- Recently delivered a serverless dimensional-shipping engine on **AWS Lambda**, estimating package dimensions from historical carrier data across 26 product types — live in production, ~74% engine-sourced coverage on attributable quotes within the first week
+- Building and shipping production services on **Java 21, Spring Boot, microservices, PostgreSQL, Redis, and AWS**
+- Delivered a serverless dimensional shipping engine on **AWS Lambda**, estimating package dimensions from historical carrier data across 26 product types. Live in production, with roughly 74% engine sourced coverage on attributable quotes within the first week
 - Maintain 85%+ test coverage on critical services using JUnit 5 and Mockito
 - Mentor junior engineers on my team and help them grow into stronger backend contributors
-- AWS Certified · Runner-up, Smart India Hackathon 2023 · Co-authored a publication on GENIUS, a SaaS platform exploring GenAI capabilities
+- AWS Certified, Runner up at Smart India Hackathon 2023, and co-authored a publication on GENIUS, a SaaS platform exploring GenAI capabilities
 
-### What I'm building outside of work
+### Beyond the day job
 
-**[Invest Alert](https://investalert.vercel.app)** — an AI-powered stock intelligence platform for Indian equity markets, co-founded and built end to end. Philosophy: explain, don't advise — plain-language narratives about why a stock is moving, not trading signals. Built on FastAPI, PostgreSQL with pgvector, SQLAlchemy/Alembic, a React/TypeScript frontend, and a two-tier LLM pipeline for cost-efficient coverage across the Nifty 500.
-
-I also write about backend engineering and system design — deep dives into things like caching strategy, distributed systems trade-offs, and where AI tooling actually earns its place in a senior engineer's workflow.
+I write about backend engineering and system design, covering things like caching strategy, distributed systems trade offs, and where AI tooling actually earns its place in a senior engineer's workflow.
 
 ### Tech I work with
 
@@ -46,13 +44,4 @@ I also write about backend engineering and system design — deep dives into thi
 
 ---
 
-### GitHub stats
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SuryaSatyaNikhil503&show_icons=true&theme=default&locale=en&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SuryaSatyaNikhil503" />
-</p>
-
----
-
-Always happy to talk backend architecture, distributed systems, or where AI tooling genuinely helps (versus where it's just noise) — [reach out on LinkedIn](https://linkedin.com/in/gssnikhil).
+Always happy to talk backend architecture, distributed systems, or where AI tooling genuinely helps versus where it's just noise. [Reach out on LinkedIn](https://linkedin.com/in/gssnikhil).
